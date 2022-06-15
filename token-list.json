@@ -1,6 +1,6 @@
 {
   "name": "HOS",
-  "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.png",
+  "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.svg",
   "keywords": [
       "defi",
       "DEFI",
@@ -14,7 +14,7 @@
       "name": "Hight Operation System",
       "symbol": "HOS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.png"
+      "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.svg"
       }
     ],
     "version": {
