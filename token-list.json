@@ -10,7 +10,7 @@
       {
       "chainId": 1,
       "address": "0x769Be7890828D0c3211CB9bC1F1E66cE8D6B3Cf1",
-      "name": “Hight Operation System”,
+       
       "symbol": "HOS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/hosone/hos/master/HOS.png"
